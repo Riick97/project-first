@@ -18,8 +18,8 @@
 ## Task: Find a product in the Car accessorie niche
    - Duration: 60Min
    - Startime: 6:07
-   - EndTime: 
-   - Actual Duration: 
+   - EndTime: 7:25
+   - Actual Duration:  1hr 20min
    - Steps: 
    - Tool: Amazon Shakers and Movers
      - Search Car cupholder [v]
@@ -30,5 +30,18 @@
      - Result:
        - Car Cupholder higher trend [v] (6:10)
    - Relocate (6:39)
+   - Result: Failed 
+   - Reasong too large
+
+
+## Task: Create Potential products file with pros and cons
+   - Duration: 60Min
+   - StartTime: 7:27
+   - Endtime: 
+   - Actual Duration
+   - Steps: 
+   - Tool: Exploding Topics
+     - Search Car Accessories [] ()
+   - tool: 
 
 
