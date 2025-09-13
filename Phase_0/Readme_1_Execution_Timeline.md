@@ -15,4 +15,19 @@
      7. Login with Github CLI [v] (5:30)
      8. Download Project [v] (5:45)
 
-## Task: Find a product in the  
+## Task: Find a product in the Car accessorie niche
+   - Duration: 60Min
+   - Startime: 6:07
+   - EndTime: 
+   - Actual Duration: 
+   - Steps: 
+   - Tool: Amazon Shakers and Movers
+     - Search Car cupholder [v]
+     - Search Car Batery jump starter [v]
+   - Tool: Google Trends
+     - Search Car cupholder [v]
+     - Search Car Batery jump starter [v]
+     - Result:
+       - Car Cupholder higher trend [v] (6:10)
+
+
