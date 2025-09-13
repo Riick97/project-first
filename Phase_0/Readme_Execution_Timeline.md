@@ -15,4 +15,4 @@
      7. Login with Github CLI [v] (5:30)
      8. Download Project [v] (5:45)
 
-## Task: Setup 
+## Task: Find a product in the  
