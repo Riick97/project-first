@@ -75,7 +75,21 @@
         - Compare all the searches we got from exploding trends to focus on one
       - REsult: Success
       - Reason: 
-        - Car cup holder phone mount is the best one
+        - "Car cup holder phone mount" is the best one
+
+
+## Task: Use Amazon Best Sellers to shows products with fast-rising demand
+   Duration: 15Min
+   Start: 8:00
+   End: 
+   Actual Duraction: 
+   Steps;
+      Input: 
+         Car cup holder phone mount
+      Process: 
+         Look for a specific product
+      Result: 
+         
 
 
 
