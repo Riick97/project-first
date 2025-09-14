@@ -81,15 +81,35 @@
 ## Task: Use Amazon Best Sellers to shows products with fast-rising demand
    Duration: 15Min
    Start: 8:00
-   End: 
-   Actual Duraction: 
+   End: 8:20
+   Actual Duraction: 20 Min
    Steps;
       Input: 
          Car cup holder phone mount
       Process: 
          Look for a specific product
       Result: 
-         
+         - Tykor: Car cup holder Expander
+         - Everlasting Conforrt Memory /foam seat cussion
+         - Singaro: Car Cup Holder Coaster (bestselling)
+  
+
+## Task: Look for Existing Ads and identify competitors
+   Duration: 20Min
+   Start: 8:30
+   End: 9:20
+   Actual Duration: 50Min
+   Steps:
+      Input:
+         the 3 products from bestsellers
+      Process:
+         Look at the ads
+         List out competitors
+      Result: 
+         Failed
+
+## Task: 
+
 
 
 
